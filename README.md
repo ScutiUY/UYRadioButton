@@ -22,7 +22,7 @@ pod 'UYRadioButton'
 
 ## Author
 
-ScutiUY, dusdl14@gmail.com
+ScutiUY, scutiuys@gmail.com
 
 ## License
 
