@@ -1,0 +1,22 @@
+{
+  "name": "UYRadioButton",
+  "version": "0.1.0",
+  "summary": "A short description of UYRadioButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ScutiUY/UYRadioButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ScutiUY": "dusdl14@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ScutiUY/UYRadioButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "UYRadioButton/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - UYRadioButton (0.1.0)
+
+DEPENDENCIES:
+  - UYRadioButton (from `../`)
+
+EXTERNAL SOURCES:
+  UYRadioButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UYRadioButton: 73e7d6bf596d34c287e0654cb16cbbb74c388bba
+
+PODFILE CHECKSUM: 7c68e09aa96b332aae1d0329c45108911766f4b4
+
+COCOAPODS: 1.9.3
